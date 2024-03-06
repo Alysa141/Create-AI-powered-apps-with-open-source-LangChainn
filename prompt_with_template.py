@@ -5,7 +5,7 @@ import gradio as gr
 # initialize the models
 openai = ChatOpenAI(
     model_name="gpt-3.5-turbo",
-    openai_api_key="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"
+    openai_api_key="API KEY KAMU"
 
 )
 
